@@ -2,7 +2,7 @@
 
 ## Summary
 
-Scripts created by Lisa Boyer to visualize parameters of interest and floc events.
+Scripts created by Lisa Boyer for the Buffalo Pound Water Treatment Plant to visualize parameters of interest and floc events.
 
 ## Highly Qualified Personnel
 
