@@ -2,23 +2,16 @@
 
 ## Summary
 
-Provide a brief description of the project - 150 words.
+Scripts created by Lisa Boyer to visualize parameters of interest and floc events.
 
 ## Highly Qualified Personnel
 
-- Name, Institution, email, ORCID 0000-0000-0000-0000
+- Lisa Boyer, lisa.boyer@usask.ca
+- Lana Vuleta, lana.j.vuleta@gmail.com
 
 ## Principle Investigators
 
-- Jason Venkiteswaran, Wilfrid Laurier University, jvenkiteswaran@wlu.ca, ORCID 0000-0002-6574-7071
-
-## Primary Contact  
-
-- Jason Venkiteswaran, Wilfrid Laurier University, jvenkiteswaran@wlu.ca, ORCID 0000-0002-6574-7071
-
-## Producer  
-
-- Jason Venkiteswaran, Wilfrid Laurier University, jvenkiteswaran@wlu.ca, ORCID 0000-0002-6574-7071
+- Helen Baulch, helen.baulch@usask.ca
 
 ## Data sources
 
@@ -30,31 +23,7 @@ Provide a brief description of the project - 150 words.
 
 ## Keywords
 
-List keywords separated by commas
-
-## Geographic Coverage
-
-- Geo Bounding Box: West Long
-- Geo Bounding Box: East Long
-- Geo Bounding Box: North Lat
-- Geo Bounding Box: South Lat
-
-## Temporal Coverage
-
-- Start: YYYY-MM-DD
-- End: YYYY-MM-DD
-
-## Additional information and support
-
-- Sensitive Data Flag - Human Participants: YES or NO
-- Sensitive Data Flag - Indigenous Partnerships: YES or NO
-- Sensitive Data Flag - Government Partnerships: YES or NO
-- Sensitive Data Flag - Industry Partnerships: YES or NO
-- Access Restrictions
-
-## Software  
-
-The software (and version) used to create the dataset.  
+Buffalo Pound, Water Treatment
 
 ## Repo content information
 
